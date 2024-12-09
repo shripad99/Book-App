@@ -9,16 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "framer-motion": "^11.11.1",
+    "next": "14.2.14",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.14"
+    "react-from-dom": "^0.7.3",
+    "react-toastify": "^10.0.5",
+    "reactjs-editor": "^10.0.1",
+    "xpath-range": "^1.1.1",
+    "zustand": "^5.0.0-rc.2"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
-    "eslint-config-next": "14.2.14"
+    "eslint-config-next": "14.2.14",
+    "typescript": "^5"
   }
 }
